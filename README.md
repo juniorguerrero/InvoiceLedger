@@ -23,4 +23,8 @@ Expected totals are EUR 85.00 invoiced, EUR 30.00 received, EUR 55.00 outstandin
 - Create branded PDF templates and retain an archive of issued invoices.
 - Record payments, import expenses, and reconcile dashboard figures against the underlying records.
 
-The starter uses only the Python standard library. No license is declared.
+The starter uses only the Python standard library.
+
+## License
+
+[MIT](LICENSE)
